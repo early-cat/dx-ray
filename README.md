@@ -148,7 +148,7 @@ To run DX-Ray locally on your machine:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/dx-ray.git
+    git clone https://github.com/early-cat/dx-ray.git
     cd dx-ray
     ```
 2.  **Install dependencies:**
