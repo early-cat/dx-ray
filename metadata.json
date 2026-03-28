@@ -1,0 +1,5 @@
+{
+  "name": "Kubernetes Manifest Studio",
+  "description": "A comprehensive Kubernetes Manifest Studio that replicates 20+ resource types with real-time YAML generation, smart defaults, multi-doc support, and AI security auditing.",
+  "requestFramePermissions": []
+}
