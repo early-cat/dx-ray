@@ -48,7 +48,9 @@ In the modern engineering lifecycle, professionals constantly juggle between doz
 
 ## 📸 Screenshots
 
-### **Main Dashboard Overview:** ![Main Dashboard Overview](assests/images/screenshots/home.png)
+### **Main Dashboard Overview:**
+https://github.com/user-attachments/assets/26c07d88-5b95-40b5-af1d-a287a8cf4eca
+
 
 ---
 
